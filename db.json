@@ -1,0 +1,104 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomik Alışkanlıklar",
+      "author": "James Clear",
+      "image": "https://picsum.photos/900",
+      "year": 2020,
+      "page": 305,
+      "description": "Küçük alışkanlıkların büyük değişimlere nasıl yol açtığını anlatan bir rehber.",
+      "price": "140 TL"
+    },
+    {
+      "id": 2,
+      "title": "Zengin Baba Yoksul Baba",
+      "author": "Robert T. Kiyosaki",
+      "image": "https://picsum.photos/901",
+      "year": 1997,
+      "page": 336,
+      "description": "Finansal okuryazarlık ve yatırım üzerine klasikleşmiş bir eser.",
+      "price": "180 TL"
+    },
+    {
+      "id": 3,
+      "title": "İknanın Psikolojisi",
+      "author": "Robert B. Cialdini",
+      "image": "https://picsum.photos/902",
+      "year": 1984,
+      "page": 320,
+      "description": "İnsanları etkilemenin ve ikna etmenin psikolojik temelleri.",
+      "price": "165 TL"
+    },
+    {
+      "id": 4,
+      "title": "Düşün ve Zengin Ol",
+      "author": "Napoleon Hill",
+      "image": "https://picsum.photos/903",
+      "year": 1937,
+      "page": 238,
+      "description": "Başarıya ulaşmanın zihinsel prensiplerini anlatan klasikleşmiş bir kitap.",
+      "price": "130 TL"
+    },
+    {
+      "id": 5,
+      "title": "Etkili İnsanların 7 Alışkanlığı",
+      "author": "Stephen R. Covey",
+      "image": "https://picsum.photos/904",
+      "year": 1989,
+      "page": 381,
+      "description": "Bireysel ve profesyonel hayatta başarıya ulaşmanın temel prensipleri.",
+      "price": "200 TL"
+    },
+    {
+      "id": 6,
+      "title": "Zamanın Kısa Tarihi",
+      "author": "Stephen Hawking",
+      "image": "https://picsum.photos/905",
+      "year": 1988,
+      "page": 212,
+      "description": "Evrenin ve zamanın doğasına dair popüler bilim kitabı.",
+      "price": "150 TL"
+    },
+    {
+      "id": 7,
+      "title": "Savaş Sanatı",
+      "author": "Sun Tzu",
+      "image": "https://picsum.photos/906",
+      "year": "M.Ö. 5. yy",
+      "page": 96,
+      "description": "Strateji ve savaş sanatına dair klasik bir eser.",
+      "price": "90 TL"
+    },
+    {
+      "id": 8,
+      "title": "Bilinçaltının Gücü",
+      "author": "Joseph Murphy",
+      "image": "https://picsum.photos/907",
+      "year": 1955,
+      "page": 320,
+      "description": "Bilinçaltımızın gücünü kullanarak hayatımızı değiştirme yolları.",
+      "price": "175 TL"
+    },
+    {
+      "id": 9,
+      "title": "Tesla: Dahinin Biyografisi",
+      "author": "Margaret Cheney",
+      "image": "https://picsum.photos/908",
+      "year": 2001,
+      "page": 450,
+      "description": "Nikola Tesla’nın hayatı, icatları ve dehası üzerine kapsamlı bir biyografi.",
+      "price": "220 TL"
+    },
+    {
+      "id": 10,
+      "title": "Beyin Kuralları",
+      "author": "John Medina",
+      "image": "https://picsum.photos/909",
+      "year": 2008,
+      "page": 280,
+      "description": "Beynin nasıl çalıştığı ve bu bilgiyi günlük hayatımıza nasıl uyarlayabileceğimiz üzerine bilimsel bir çalışma.",
+      "price": "190 TL"
+    }
+  ]
+}
