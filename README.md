@@ -1,9 +1,39 @@
-# React + Vite
+# 📚 Bookworm - Book Listing App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a book listing application built with **React**. The app fetches book data through API requests handled by a custom `server.js` and allows users to explore a wide collection of books interactively.
 
-Currently, two official plugins are available:
+# 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Bookworm-Project
+- Lists a large set of book data using API calls  
+- Filter books by category: *Story* or *Novel*  
+- Sort books alphabetically (A-Z / Z-A)  
+- Search books by name with a live search bar  
+- Pagination support within each category  
+- Responsive design and clean interface
+
+# 🛠️ Technologies Used
+
+### 💻 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- React Router DOM  
+- Axios  
+- Bootstrap  
+
+### 🖥️ Backend / Tools
+- json-server  
+- server.js (Custom API logic)
+
+# 📸 Screenshot
+
+
+
+https://github.com/user-attachments/assets/d89a5224-dda7-417c-9868-455f04d15186
+
+
+
+# 📨 Contact
+
+For questions, feedback or suggestions, please contact: **fratsbht@icloud.com**
